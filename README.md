@@ -1,6 +1,7 @@
 package sample;
 import javax.swing.*;
 public class InputOutput {
+
     public static void main (String[] args) {
         JOptionPane.showMessageDialog(null,
                 "Hallo and welcome to my survey?");
